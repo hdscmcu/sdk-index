@@ -1,0 +1,16 @@
+{
+    "name": "GD32H77D-Gino",
+    "vendor": "RealThread",
+    "description": "GD32H77D-Gino Board Support Packages",
+    "license": "",
+    "repository": "https://github.com/RT-Thread-Studio/sdk-bsp-gd32h77d-realthread-ginopi.git",
+    "releases": [
+        {
+            "version": "1.0.0",
+            "date": "2026-09-11",
+            "description": "v1.0.0 release",
+            "size": "138 MB",
+            "url": "https://github.com/RT-Thread-Studio/sdk-bsp-gd32h77d-realthread-ginopi/archive/v1.0.0.zip"
+        }
+    ]
+}
